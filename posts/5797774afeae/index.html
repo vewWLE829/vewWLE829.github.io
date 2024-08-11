@@ -315,7 +315,7 @@
 <h2 id="2-解决Ubuntu的中文乱码问题"><a href="#2-解决Ubuntu的中文乱码问题" class="headerlink" title="2. 解决Ubuntu的中文乱码问题"></a>2. 解决Ubuntu的中文乱码问题</h2><ol>
 <li>安装中文支持包<code>language-pack-zh-hans</code></li>
 </ol>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo apt-get install language-pack-zh-hans<br></code></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">sudo</span> apt-get install language-pack-zh-hans<br></code></pre></td></tr></table></figure>
 
 <ol start="2">
 <li>修改<code>/etc/environment</code>（在文件的末尾追加）：</li>
@@ -330,10 +330,10 @@
 <ol start="4">
 <li>最后，执行命令：</li>
 </ol>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo locale-gen<br></code></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">sudo</span> locale-gen<br></code></pre></td></tr></table></figure>
 
 <p>对于中文乱码是空格的情况，安装中文字体解决。</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo apt-get install fonts-droid-fallback ttf-wqy-zenhei ttf-wqy-microhei fonts-arphic-ukai fonts-arphic-uming<br></code></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">sudo</span> apt-get install fonts-droid-fallback ttf-wqy-zenhei ttf-wqy-microhei fonts-arphic-ukai fonts-arphic-uming<br></code></pre></td></tr></table></figure>
 
 <h2 id="3-解决Linux-systemd-resolve占用53端口问题"><a href="#3-解决Linux-systemd-resolve占用53端口问题" class="headerlink" title="3. 解决Linux systemd-resolve占用53端口问题"></a>3. 解决Linux systemd-resolve占用53端口问题</h2><p>在Linux系统中有些软件（如：Dnsmasq解锁Netflix中的Dns等服务）可能要用到53的端口，但有些系统提示已使用（required port 53 already in use ）。</p>
 <p>查看53端口是不是被<code>systemd-resolved</code>占用了</p>
