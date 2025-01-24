@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>免费开源的AVIF和HEIF图片查看器 - JPEGView</title>
+    <link href="/posts/452772d39430/"/>
+    <url>/posts/452772d39430/</url>
+    
+    <content type="html"><![CDATA[<h2 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h2><p><strong>JPEGView</strong> 是一款高效、轻量的图片查看工具，除了支持常见的图像格式如 JPEG、PNG、GIF 和 BMP，它还支持较新的图像格式，如 AVIF（高效图像格式）和苹果设备常用的 HEIF（High Efficiency Image Format）格式。这使得它成为一个多功能的图像查看器，特别适合需要查看现代手机拍摄图片的用户是一款可以批量压缩多张图片的工具.可以离线使用.</p><h2 id="支持格式"><a href="#支持格式" class="headerlink" title="支持格式"></a>支持格式</h2><p>JPegView具有内置支持以下格式：</p><ul><li><p>Popular: JPEG,  GIF</p></li><li><p>Lossless: BMP,  PNG, TIFF, PSD</p></li><li><p>Web: <strong>WEBP,  HEIF/HEIC,  AVIF,</strong>  JXL,</p></li><li><p>Legacy: TGA, WDP, HDP, JXR</p></li><li><p>Camera RAW formats:</p><ul><li>Adobe (DNG), Canon (CRW, CR2, CR3), Nikon (NEF, NRW), Sony (ARW, SR2)</li><li>Olympus (ORF), Panasonic (RW2), Fujifilm (RAF)</li><li>Sigma (X3F), Pentax (PEF), Minolta (MRW), Kodak (KDC, DCR)</li><li>A full list is available here: <a href="https://www.libraw.org/supported-cameras">LibRaw supported cameras</a></li></ul></li></ul><h2 id="官方地址"><a href="#官方地址" class="headerlink" title="官方地址"></a>官方地址</h2><ul><li><a href="https://github.com/sylikc/jpegview">官方地址</a></li><li><a href="https://github.com/sylikc/jpegview/releases">下载地址</a></li></ul><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20250124231743958.webp"></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20250124233435909.webp" alt="image-20250124233408778"></p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20250124231743959.webp"></p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20250124231743960.webp"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图片</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>如何使用Windows沙盒</title>
     <link href="/posts/7a3217343258/"/>
     <url>/posts/7a3217343258/</url>
