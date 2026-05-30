@@ -170,9 +170,9 @@
   
   
   <entry>
-    <title>布林结</title>
-    <link href="/posts/44fe739033c5/"/>
-    <url>/posts/44fe739033c5/</url>
+    <title>货车司机结</title>
+    <link href="/posts/0c73f7426780/"/>
+    <url>/posts/0c73f7426780/</url>
     
     <content type="html"><![CDATA[<h2 id="绳结用途"><a href="#绳结用途" class="headerlink" title="绳结用途"></a>绳结用途</h2><p>用于货车捆绑货物</p><h2 id="打法"><a href="#打法" class="headerlink" title="打法"></a>打法</h2><h3 id="打法1-滑轮结法-翻小圈法"><a href="#打法1-滑轮结法-翻小圈法" class="headerlink" title="打法1, 滑轮结法, 翻小圈法"></a>打法1, 滑轮结法, 翻小圈法</h3><p><a href="https://youtu.be/GhbVlV9R2_E?t=113">https://youtu.be/GhbVlV9R2_E?t=113</a></p><h3 id="6字打法"><a href="#6字打法" class="headerlink" title="6字打法"></a>6字打法</h3><p><a href="https://youtu.be/GhbVlV9R2_E?t=16">https://youtu.be/GhbVlV9R2_E?t=16</a></p>]]></content>
     
@@ -199,9 +199,9 @@
   
   
   <entry>
-    <title>货车司机结</title>
-    <link href="/posts/0c73f7426780/"/>
-    <url>/posts/0c73f7426780/</url>
+    <title>布林结</title>
+    <link href="/posts/44fe739033c5/"/>
+    <url>/posts/44fe739033c5/</url>
     
     <content type="html"><![CDATA[<h2 id="绳结用途"><a href="#绳结用途" class="headerlink" title="绳结用途"></a>绳结用途</h2><p>用于货车捆绑货物</p><h2 id="打法"><a href="#打法" class="headerlink" title="打法"></a>打法</h2><h3 id="打法1-滑轮结法-翻小圈法"><a href="#打法1-滑轮结法-翻小圈法" class="headerlink" title="打法1, 滑轮结法, 翻小圈法"></a>打法1, 滑轮结法, 翻小圈法</h3><p><a href="https://youtu.be/GhbVlV9R2_E?t=113">https://youtu.be/GhbVlV9R2_E?t=113</a></p><h3 id="6字打法"><a href="#6字打法" class="headerlink" title="6字打法"></a>6字打法</h3><p><a href="https://youtu.be/GhbVlV9R2_E?t=16">https://youtu.be/GhbVlV9R2_E?t=16</a></p>]]></content>
     
@@ -244,9 +244,9 @@
     
     <tags>
       
-      <tag>DIY</tag>
-      
       <tag>电工</tag>
+      
+      <tag>DIY</tag>
       
       <tag>电线</tag>
       
@@ -298,9 +298,9 @@
     
     <tags>
       
-      <tag>水电</tag>
-      
       <tag>DIY</tag>
+      
+      <tag>水电</tag>
       
       <tag>梁师傅</tag>
       
@@ -329,9 +329,9 @@
     
     <tags>
       
-      <tag>水电</tag>
-      
       <tag>DIY</tag>
+      
+      <tag>水电</tag>
       
       <tag>梁师傅</tag>
       
@@ -360,9 +360,9 @@
     
     <tags>
       
-      <tag>水电</tag>
-      
       <tag>DIY</tag>
+      
+      <tag>水电</tag>
       
       <tag>梁师傅</tag>
       
@@ -391,9 +391,9 @@
     
     <tags>
       
-      <tag>水电</tag>
-      
       <tag>DIY</tag>
+      
+      <tag>水电</tag>
       
       <tag>梁师傅</tag>
       
@@ -422,11 +422,11 @@
     
     <tags>
       
-      <tag>DIY</tag>
-      
       <tag>电工</tag>
       
       <tag>接电线</tag>
+      
+      <tag>DIY</tag>
       
     </tags>
     
@@ -451,11 +451,11 @@
     
     <tags>
       
-      <tag>DIY</tag>
-      
       <tag>电工</tag>
       
       <tag>接电线</tag>
+      
+      <tag>DIY</tag>
       
     </tags>
     
@@ -1010,7 +1010,7 @@
     <link href="/posts/6ad9f01285a1/"/>
     <url>/posts/6ad9f01285a1/</url>
     
-    <content type="html"><![CDATA[<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="安装Node-js-12以上版本"><a href="#安装Node-js-12以上版本" class="headerlink" title="安装Node.js 12以上版本"></a>安装Node.js 12以上版本</h3><blockquote><p><a href="https://nodejs.org/en/">https://nodejs.org/en/</a></p></blockquote><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210629123856338.png"></p><h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install -g hexo-cli<br></code></pre></td></tr></table></figure><h3 id="创建博客工程"><a href="#创建博客工程" class="headerlink" title="创建博客工程"></a>创建博客工程</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init &lt;博客工程目录&gt;<br><span class="hljs-built_in">cd</span> &lt;博客工程目录&gt;<br>npm install<br></code></pre></td></tr></table></figure><h3 id="安裝hexo发布插件"><a href="#安裝hexo发布插件" class="headerlink" title="安裝hexo发布插件"></a>安裝hexo发布插件</h3><p>在<code>博客工程目录</code>执行以下命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-deployer-git --save<br></code></pre></td></tr></table></figure><h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><p>在<code>博客工程目录</code>执行以下命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install --save hexo-theme-fluid<br></code></pre></td></tr></table></figure><p>然后在博客目录下创建<code>_config.fluid.yml</code>，将 <a href="https://github.com/fluid-dev/hexo-theme-fluid/blob/master/_config.yml">_config.yml</a> 内容复制进去。</p><blockquote><p>参考: <a href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></p></blockquote><h2 id="命令说明"><a href="#命令说明" class="headerlink" title="命令说明"></a>命令说明</h2><h3 id="清理生成的页面"><a href="#清理生成的页面" class="headerlink" title="清理生成的页面"></a>清理生成的页面</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bahs">hexo clean<br></code></pre></td></tr></table></figure><h3 id="开启本地服务器"><a href="#开启本地服务器" class="headerlink" title="开启本地服务器"></a>开启本地服务器</h3><p><code>调试页面</code>时, <strong>不用</strong>生成页面. 直接<code>启动</code>本地服务器即可<br>如果修改了<code>配置文件</code>, <strong>重新</strong>开启本地服务器即可</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo s<br></code></pre></td></tr></table></figure><blockquote><p>原文 <a href="https://hexo.io/zh-cn/docs/generating">https://hexo.io/zh-cn/docs/generating</a></p></blockquote><h3 id="生成页面"><a href="#生成页面" class="headerlink" title="生成页面"></a>生成页面</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo g<br></code></pre></td></tr></table></figure><blockquote><p>参考: <a href="https://hexo.io/zh-cn/docs/server">https://hexo.io/zh-cn/docs/server</a></p></blockquote><h3 id="发布到github-一键部署"><a href="#发布到github-一键部署" class="headerlink" title="发布到github (一键部署)"></a>发布到github (一键部署)</h3><p><strong>执行部署之前, 先需要<code>生成页面</code></strong></p><p>修改配置文件<code>_config.yml</code></p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">deploy:</span><br>  <span class="hljs-attr">type:</span> <span class="hljs-string">git</span><br>  <span class="hljs-attr">repo:</span> <span class="hljs-string">&lt;repository</span> <span class="hljs-string">url&gt;</span> <span class="hljs-comment">#https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io</span><br>  <span class="hljs-attr">branch:</span> [<span class="hljs-string">branch</span>]<br></code></pre></td></tr></table></figure><p>执行命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo d<br></code></pre></td></tr></table></figure><h2 id="主题设置"><a href="#主题设置" class="headerlink" title="主题设置"></a>主题设置</h2><h3 id="修改首页banner图片"><a href="#修改首页banner图片" class="headerlink" title="修改首页banner图片"></a>修改首页banner图片</h3><blockquote><p>建议用<code>1920*1080</code>分辨率的图片. 图片大小最好<strong>不要超过1MB</strong></p></blockquote><p>在<code>source/img</code>文件夹中加入<code>banner图片</code></p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702160049822.png"></p><p>到<code>_config.fluid.yml</code>配置中修改banner图片路径<br><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702154505648.png"></p><h3 id="修改网站ICON图标"><a href="#修改网站ICON图标" class="headerlink" title="修改网站ICON图标"></a>修改网站ICON图标</h3><ul><li><p>在icon网站下载<code>彩色图标</code>png文件<br>例如: <a href="https://www.iconfont.cn/">https://www.iconfont.cn/</a></p></li><li><p>把icon文件放入/source/img文件夹.<br><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702155020528.png"></p></li><li><p>在<code>_config.fluid</code>文件, 修改icon文件路径<br><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702154952583.png"></p></li></ul><h2 id="写作说明"><a href="#写作说明" class="headerlink" title="写作说明"></a>写作说明</h2><h3 id="文章添加封面图片"><a href="#文章添加封面图片" class="headerlink" title="文章添加封面图片"></a>文章添加封面图片</h3><p>在文章的最上面设置以下信息</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-meta">---</span><br><span class="hljs-attr">title:</span> <span class="hljs-string">&lt;文章标题&gt;</span> <br><span class="hljs-attr">index_img:</span> <span class="hljs-string">&lt;文章封面图片地址&gt;</span><br><span class="hljs-attr">banner_img:</span> <span class="hljs-string">&lt;文章Banner图片地址&gt;</span> <br><span class="hljs-attr">date:</span> <span class="hljs-string">&lt;文章创建时间&gt;</span><br><span class="hljs-meta">---</span><br><span class="hljs-meta"></span><br><span class="hljs-string">...文章内容...</span><br></code></pre></td></tr></table></figure><h2 id="创建GitHub仓库"><a href="#创建GitHub仓库" class="headerlink" title="创建GitHub仓库"></a>创建GitHub仓库</h2><p>打开 GitHub，创建一个新的公开仓库。仓库名建议使用 <code>&lt;GitHub用户名&gt;.github.io</code>，例如你的 GitHub 用户名是 <code>JohnSmith</code>，仓库名就填写 <code>JohnSmith.github.io</code>。</p><p>本文创建的是个人博客站点，仓库名需要和 GitHub Pages 的个人站点规则保持一致，使用 <code>&lt;GitHub用户名&gt;.github.io</code>。后面即使绑定自定义域名，也建议先按这个规则创建仓库。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210629125902869.png"></p><p>仓库创建完成后，进入仓库的 <code>Settings</code> -&gt; <code>Pages</code>，选择 GitHub Pages 的发布分支。使用 Hexo 部署时，一般选择 <code>main</code> 或 <code>master</code> 分支，目录选择 <code>/root</code>。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210629130032633.png"></p><p>如果使用自定义域名，在图中<code>4号位置</code>填写你的博客域名。本文示例域名是 <code>blog.wingogo.tk</code>，实际配置时请替换成你自己的域名。</p><h2 id="自定义域名"><a href="#自定义域名" class="headerlink" title="自定义域名"></a>自定义域名</h2><p>自定义域名不是必须配置的。如果你只想使用 GitHub Pages 默认地址 <code>&lt;GitHub用户名&gt;.github.io</code> 访问博客，可以跳过本节；只有当你希望使用自己的域名，例如 <code>blog.wingogo.tk</code>，才需要配置自定义域名。</p><p>自定义域名需要同时配置 DNS 和 Hexo 项目中的 <code>CNAME</code> 文件。</p><p>先到域名服务商的 DNS 管理页面，添加一条 <code>CNAME</code> 记录。记录值填写 GitHub Pages 的默认访问地址，也就是 <code>&lt;GitHub用户名&gt;.github.io</code>。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210629130228507.png"></p><p>然后在 Hexo 项目的 <code>source</code> 文件夹中添加 <strong>CNAME</strong> 文件，文件内容只写一行你的博客域名，例如：</p><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs txt">blog.wingogo.tk<br></code></pre></td></tr></table></figure><p>这样每次执行 <code>hexo g</code> 和 <code>hexo d</code> 之后，生成的站点里都会带上 <code>CNAME</code> 文件，GitHub Pages 就不会丢失自定义域名配置。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210629130549711.png"></p><blockquote><p><a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain">官方原文</a></p><p>To set up a www or custom subdomain, such as <a href="http://www.example.com/">www.example.com</a> or blog.example.com, you must add your domain in the repository settings, which will create a CNAME file in your site’s repository. After that, configure a CNAME record with your DNS provider.</p></blockquote><p>最后修改博客根目录下的 <code>_config.yml</code>，把 <code>url</code> 设置为你的正式域名。这里建议写完整地址，例如：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">url:</span> <span class="hljs-string">https://blog.wingogo.tk</span><br></code></pre></td></tr></table></figure><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210629130647291.png"></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考:"></a>参考:</h2><ul><li>hexo官网: <a href="https://hexo.io/">https://hexo.io/</a></li><li>fluid主题: <a href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="安装Node-js-12以上版本"><a href="#安装Node-js-12以上版本" class="headerlink" title="安装Node.js 12以上版本"></a>安装Node.js 12以上版本</h3><blockquote><p><a href="https://nodejs.org/en/">https://nodejs.org/en/</a></p></blockquote><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210629123856338.png"></p><h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install -g hexo-cli<br></code></pre></td></tr></table></figure><h3 id="创建博客工程"><a href="#创建博客工程" class="headerlink" title="创建博客工程"></a>创建博客工程</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init &lt;博客工程目录&gt;<br><span class="hljs-built_in">cd</span> &lt;博客工程目录&gt;<br>npm install<br></code></pre></td></tr></table></figure><h3 id="安裝hexo发布插件"><a href="#安裝hexo发布插件" class="headerlink" title="安裝hexo发布插件"></a>安裝hexo发布插件</h3><p>在<code>博客工程目录</code>执行以下命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-deployer-git --save<br></code></pre></td></tr></table></figure><h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><p>在<code>博客工程目录</code>执行以下命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install --save hexo-theme-fluid<br></code></pre></td></tr></table></figure><p>然后在博客目录下创建<code>_config.fluid.yml</code>，将 <a href="https://github.com/fluid-dev/hexo-theme-fluid/blob/master/_config.yml">_config.yml</a> 内容复制进去。</p><blockquote><p>参考: <a href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></p></blockquote><h2 id="命令说明"><a href="#命令说明" class="headerlink" title="命令说明"></a>命令说明</h2><h3 id="清理生成的页面"><a href="#清理生成的页面" class="headerlink" title="清理生成的页面"></a>清理生成的页面</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bahs">hexo clean<br></code></pre></td></tr></table></figure><h3 id="开启本地服务器"><a href="#开启本地服务器" class="headerlink" title="开启本地服务器"></a>开启本地服务器</h3><p><code>调试页面</code>时, <strong>不用</strong>生成页面. 直接<code>启动</code>本地服务器即可<br>如果修改了<code>配置文件</code>, <strong>重新</strong>开启本地服务器即可</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo s<br></code></pre></td></tr></table></figure><blockquote><p>原文 <a href="https://hexo.io/zh-cn/docs/generating">https://hexo.io/zh-cn/docs/generating</a></p></blockquote><h3 id="生成页面"><a href="#生成页面" class="headerlink" title="生成页面"></a>生成页面</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo g<br></code></pre></td></tr></table></figure><blockquote><p>参考: <a href="https://hexo.io/zh-cn/docs/server">https://hexo.io/zh-cn/docs/server</a></p></blockquote><h3 id="发布到github-一键部署"><a href="#发布到github-一键部署" class="headerlink" title="发布到github (一键部署)"></a>发布到github (一键部署)</h3><p><strong>执行部署之前, 先需要<code>生成页面</code></strong></p><p>修改配置文件<code>_config.yml</code></p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">deploy:</span><br>  <span class="hljs-attr">type:</span> <span class="hljs-string">git</span><br>  <span class="hljs-attr">repo:</span> <span class="hljs-string">&lt;repository</span> <span class="hljs-string">url&gt;</span> <span class="hljs-comment">#https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io</span><br>  <span class="hljs-attr">branch:</span> [<span class="hljs-string">branch</span>]<br></code></pre></td></tr></table></figure><p>执行命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo d<br></code></pre></td></tr></table></figure><h2 id="主题设置"><a href="#主题设置" class="headerlink" title="主题设置"></a>主题设置</h2><h3 id="修改首页banner图片"><a href="#修改首页banner图片" class="headerlink" title="修改首页banner图片"></a>修改首页banner图片</h3><blockquote><p>建议用<code>1920*1080</code>分辨率的图片. 图片大小最好<strong>不要超过1MB</strong></p></blockquote><p>在<code>source/img</code>文件夹中加入<code>banner图片</code></p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702160049822.png"></p><p>到<code>_config.fluid.yml</code>配置中修改banner图片路径<br><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702154505648.png"></p><h3 id="修改网站ICON图标"><a href="#修改网站ICON图标" class="headerlink" title="修改网站ICON图标"></a>修改网站ICON图标</h3><ul><li><p>在icon网站下载<code>彩色图标</code>png文件<br>例如: <a href="https://www.iconfont.cn/">https://www.iconfont.cn/</a></p></li><li><p>把icon文件放入/source/img文件夹.<br><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702155020528.png"></p></li><li><p>在<code>_config.fluid</code>文件, 修改icon文件路径<br><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/image-20210702154952583.png"></p></li></ul><h2 id="写作说明"><a href="#写作说明" class="headerlink" title="写作说明"></a>写作说明</h2><h3 id="文章添加封面图片"><a href="#文章添加封面图片" class="headerlink" title="文章添加封面图片"></a>文章添加封面图片</h3><p>在文章的最上面设置以下信息</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-meta">---</span><br><span class="hljs-attr">title:</span> <span class="hljs-string">&lt;文章标题&gt;</span> <br><span class="hljs-attr">index_img:</span> <span class="hljs-string">&lt;文章封面图片地址&gt;</span><br><span class="hljs-attr">banner_img:</span> <span class="hljs-string">&lt;文章Banner图片地址&gt;</span> <br><span class="hljs-attr">date:</span> <span class="hljs-string">&lt;文章创建时间&gt;</span><br><span class="hljs-meta">---</span><br><span class="hljs-meta"></span><br><span class="hljs-string">...文章内容...</span><br></code></pre></td></tr></table></figure><h2 id="创建GitHub仓库"><a href="#创建GitHub仓库" class="headerlink" title="创建GitHub仓库"></a>创建GitHub仓库</h2><p>打开 GitHub，创建一个新的公开仓库。仓库名建议使用 <code>&lt;GitHub用户名&gt;.github.io</code>，例如你的 GitHub 用户名是 <code>JohnSmith</code>，仓库名就填写 <code>JohnSmith.github.io</code>。</p><p>本文创建的是个人博客站点，仓库名需要和 GitHub Pages 的个人站点规则保持一致，使用 <code>&lt;GitHub用户名&gt;.github.io</code>。后面即使绑定自定义域名，也建议先按这个规则创建仓库。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20260530092444230.webp" alt="image-20260530091819406"></p><p>仓库创建完成后，进入仓库的 <code>Settings</code> -&gt; <code>Pages</code>，选择 GitHub Pages 的发布分支。使用 Hexo 部署时，一般选择 <code>main</code> 或 <code>master</code> 分支，目录选择 <code>/root</code>。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20260530092453822.webp" alt="image-20260530092227539">                                        </p><p>如果使用自定义域名，在图中<code>4号位置</code>填写你的博客域名。本文示例域名是 <code>blog.9001003.xyz</code>，实际配置时请替换成你自己的域名。</p><h2 id="自定义域名"><a href="#自定义域名" class="headerlink" title="自定义域名"></a>自定义域名</h2><p>自定义域名不是必须配置的。如果你只想使用 GitHub Pages 默认地址 <code>&lt;GitHub用户名&gt;.github.io</code> 访问博客，可以跳过本节；只有当你希望使用自己的域名，例如 <code>blog.9001003.xyz</code>，才需要配置自定义域名。</p><p>自定义域名需要同时配置 DNS 和 Hexo 项目中的 <code>CNAME</code> 文件。</p><p>先到域名服务商的 DNS 管理页面，添加一条 <code>CNAME</code> 记录。记录值填写 GitHub Pages 的默认访问地址，也就是 <code>&lt;GitHub用户名&gt;.github.io</code>。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20260530092730518.webp" alt="image-20260530092613298"></p><p>然后在 Hexo 项目的 <code>source</code> 文件夹中添加 <strong>CNAME</strong> 文件，文件内容只写一行你的博客域名，例如：</p><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs txt">blog.9001003.xyz<br></code></pre></td></tr></table></figure><p>这样每次执行 <code>hexo g</code> 和 <code>hexo d</code> 之后，生成的站点里都会带上 <code>CNAME</code> 文件，GitHub Pages 就不会丢失自定义域名配置。</p><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20260530093133466.webp" alt="image-20260530092910001"></p><blockquote><p><a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain">官方原文</a></p><p>To set up a www or custom subdomain, such as <a href="http://www.example.com/">www.example.com</a> or blog.example.com, you must add your domain in the repository settings, which will create a CNAME file in your site’s repository. After that, configure a CNAME record with your DNS provider.</p></blockquote><p>最后修改博客根目录下的 <code>_config.yml</code>，把 <code>url</code> 设置为你的正式域名。这里建议写完整地址，例如：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">url:</span> <span class="hljs-string">https://blog.9001003.xyz</span><br></code></pre></td></tr></table></figure><p><img src="https://markdown-1301532546.cos.ap-guangzhou.myqcloud.com/markdown/20260530093133467.webp" alt="image-20260530093035883"></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考:"></a>参考:</h2><ul><li>hexo官网: <a href="https://hexo.io/">https://hexo.io/</a></li><li>fluid主题: <a href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></li></ul>]]></content>
     
     
     <categories>
